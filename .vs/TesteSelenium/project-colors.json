@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b33d17e1-e639-4a44-893e-c077fb33cdb4": {
+      "ProjectGuid": "b33d17e1-e639-4a44-893e-c077fb33cdb4",
+      "DisplayName": "TesteSelenium",
+      "ColorIndex": 0
+    },
+    "793f54a8-d337-463f-8af9-405a3a088b93": {
+      "ProjectGuid": "793f54a8-d337-463f-8af9-405a3a088b93",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
